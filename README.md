@@ -1,1 +1,3 @@
-![img.png](img.png)
+<p align="center">
+ <img width="1000" src="img.png">
+</p>
