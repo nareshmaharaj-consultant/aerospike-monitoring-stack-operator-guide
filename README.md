@@ -1,6 +1,9 @@
 <p align="center">
- <img width="600" src="img_6.png">
+ <img width="600" src="img_7.png">
 </p>
+
+
+![img_7.png](img_7.png)
 
 ![img_1.png](img_1.png)
 
