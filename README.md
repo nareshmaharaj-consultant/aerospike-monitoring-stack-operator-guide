@@ -1,2 +1,3 @@
-# aerospike-monitoring-stack-operator-guide
-# aerospike-monitoring-stack-operator-guide
+<p align="center">
+<img width="1000" src="img_msk.png">
+</p>
